@@ -1,4 +1,4 @@
-# Reporte de Intrusión y Análisis de Seguridad
+# Reporte de Intrusión y Análisis de Seguridad de la Maquina Amor en DockerLabs
 ## [ 1. PASO A PASO / POC (EL "CÓMO SE EXPLOTA") ]
 
 ### Fase 1: Reconocimiento y Enumeración Web
