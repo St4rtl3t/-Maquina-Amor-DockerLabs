@@ -21,7 +21,7 @@ Con esta información brindada en la web, ejecutamos una herramienta de fuerza b
 
 ![Pasted image 20260924195231.png](assets/Pasted%20image%2020260924195231.png)
 
-> [!NOTE] Desglose de Comandos
+> Desglose de Comandos
 > 
 > - `hydra`: Herramienta rápida de inicio de sesión por fuerza bruta que soporta múltiples protocolos (en este caso, SSH).
 >     
@@ -36,7 +36,7 @@ Ingresamos vía SSH al usuario de Carlota y procedemos a verificar a qué grupos
 Luego procedemos a usar el comando `cat` sobre el archivo passwd para enumerar más usuarios del sistema.
 ![Pasted image 20260924195545.png](assets/Pasted%20image%2020260924195545.png)
 
-> [!NOTE] Desglose de Comandos
+> Desglose de Comandos
 > 
 > - `cat`: Comando de Linux utilizado para concatenar y mostrar el contenido de archivos en la salida estándar.
 >     
@@ -55,7 +55,7 @@ Indagando entre las carpetas de Carlota, entramos al directorio `Desktop`, encon
 
 ![Pasted image 20260924201908.png](assets/Pasted%20image%2020260924201908.png)
 
-> [!NOTE] Desglose de Comandos
+> Desglose de Comandos
 > 
 > - `steghide`: Herramienta de esteganografía que oculta o extrae datos confidenciales en archivos de imagen and audio.
 >     
@@ -67,7 +67,7 @@ Vemos que contiene un archivo `secret.txt`, por lo que procedemos a extraerlo ut
 
 ![Pasted image 20260924211335.png](assets/Pasted%20image%2020260924211335.png)
 
-> [!NOTE] Desglose de Comandos
+> Desglose de Comandos
 > 
 > - `extract`: Instrucción para descomprimir o extraer el archivo incrustado dentro de la imagen.
 >     
@@ -100,7 +100,7 @@ El comando es el siguiente:
 
 ![Pasted image 20260924212539.png](assets/Pasted%20image%2020260924212539.png)
 
-> [!NOTE] Desglose de Comandos
+> Desglose de Comandos
 > 
 > - `ruby`: Invoca el intérprete del lenguaje de programación Ruby.
 >     
