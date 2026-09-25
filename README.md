@@ -1,4 +1,4 @@
-# Reporte de Intrusión y Análisis de Seguridad de la Maquina Amor en DockerLabs
+# Reporte de Intrusión y Análisis de Seguridad
 ## [ 1. PASO A PASO / POC (EL "CÓMO SE EXPLOTA") ]
 
 ### Fase 1: Reconocimiento y Enumeración Web
@@ -10,7 +10,7 @@ Al ver los resultados, ingresamos al puerto 80 por medio de Firefox y nos muestr
 
 ![Pasted image 20260924221152.png](assets/Pasted%20image%2020260924221152.png)
 
-> [!NOTE] Desglose de Comandos
+>  Desglose de Comandos
 > 
 > - `nmap`: Herramienta de exploración de red y auditoría de seguridad utilizada para determinar qué puertos están abiertos en la máquina objetivo.
 >     
